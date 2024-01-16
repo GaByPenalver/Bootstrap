@@ -1,0 +1,70 @@
+.card {
+    width: 18rem;
+}
+
+.card-footer {
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    padding-left: 70px;
+    justify-content: space-between;
+    padding-bottom: 0px;
+    padding-top: 15px;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+}
+
+.card-text {
+    font-family: 'Roboto' sans-serif;
+    font-weight: 300;
+    color: #707070;
+    text-align: center;
+}
+
+.img {
+    width: 278px;
+    height: 180px;
+}
+
+.card-text-oferta {
+    color: #28A745;
+    font-family: 'Roboto', medium, sans-serif;
+    font-weight: 300;
+    font-size: 15pt;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.card-text-precio {
+    padding-top: 8px;
+    margin-bottom: 0;
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    color: #28A745;
+    border: 0;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+.row {
+    padding: 50px;
+}
+
+.container-fluid {
+    background-color: #28A745;   
+}
+
+.cuppon-footer {
+    font-family: 'Roboto', light, sans-serif;
+    font-size: 14pt;
+    font-weight: 300;
+}
